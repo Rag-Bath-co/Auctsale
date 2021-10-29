@@ -161,7 +161,7 @@ Search
 </span>
 
 .btn_one {
-    color:white;
+    color:#ff4545;
     padding:10px 40px;
     border-radius:50px;
     border:2px solid #fff;
@@ -181,7 +181,7 @@ Search
     font-weight:normal;
 }
 .btn_two {
-    color:#000;
+    color:#45b5ff;
     padding:10px 40px;
     border-radius:50px;
     border:2px solid #fff;
@@ -193,6 +193,23 @@ Search
     margin:30px 10px;
 }
 .btn_two:hover {
+    background:transparent;
+    cursor:pointer;
+    color:#fff;
+}
+.btn_three {
+    color:#7dff45;
+    padding:10px 40px;
+    border-radius:50px;
+    border:2px solid #fff;
+    font-size:18px;
+    font-family: 'Comfortaa', cursive;
+    font-weight:bold;
+    background:#fff;
+    transition:0.4s ease-in-out;
+    margin:30px 10px;
+}
+.btn_three:hover {
     background:transparent;
     cursor:pointer;
     color:#fff;
@@ -243,6 +260,10 @@ Search
         padding:8px 20px;
     }
     .btn_two {
+        font-size:14px;
+        padding:8px 20px;
+    }
+    .btn_three {
         font-size:14px;
         padding:8px 20px;
     }
