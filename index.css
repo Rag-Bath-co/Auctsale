@@ -73,7 +73,7 @@ body,html {
 #middle {
     width:100%;
     height:80vh;
-    background:linear-gradient(0deg,rgba(0,0,0,1),rgba(0,0,0,0)),url("https://i.ibb.co/88yXjC5/C4549-BC4-8-BA8-4807-BCA9-5-CF352303-B7-B.jpg") center center fixed;
+    background:linear-gradient(0deg,rgba(0,0,0,1),rgba(0,0,0,0)),url("https://i.ibb.co/4tdvvQK/Rag-rat-logo.png") center center fixed;
     background-size:100% auto;
     background-repeat:no-repeat;
     color:white;
@@ -161,7 +161,7 @@ Search
 </span>
 
 .btn_one {
-    color:#ff4545;
+    color:#fff;
     padding:10px 40px;
     border-radius:50px;
     border:2px solid #fff;
@@ -173,7 +173,7 @@ Search
     margin:30px 10px;
 }
 .btn_one:hover {
-    background:white;
+    background:#ff4545;
     cursor:pointer;
     color:#000;
 }
@@ -181,7 +181,7 @@ Search
     font-weight:normal;
 }
 .btn_two {
-    color:#45b5ff;
+    color:#fff;
     padding:10px 40px;
     border-radius:50px;
     border:2px solid #fff;
@@ -193,12 +193,12 @@ Search
     margin:30px 10px;
 }
 .btn_two:hover {
-    background:transparent;
+    background:#45b5ff;
     cursor:pointer;
     color:#fff;
 }
 .btn_three {
-    color:#7dff45;
+    color:#fff;
     padding:10px 40px;
     border-radius:50px;
     border:2px solid #fff;
@@ -210,7 +210,7 @@ Search
     margin:30px 10px;
 }
 .btn_three:hover {
-    background:transparent;
+    background:#7dff45;
     cursor:pointer;
     color:#fff;
 }
