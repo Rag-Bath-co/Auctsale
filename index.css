@@ -165,14 +165,14 @@ Search
 </span>
 
 .btn_one {
-    color:#fff;
+    color:#000;
     padding:10px 40px;
     border-radius:50px;
     border:2px solid #fff;
     font-size:18px;
     font-family: 'Comfortaa', cursive;
     font-weight:bold;
-    background:transparent;
+    background:#fff;
     transition:0.4s ease-in-out;
     margin:30px 10px;
 }
@@ -185,7 +185,7 @@ Search
     font-weight:normal;
 }
 .btn_two {
-    color:#fff;
+    color:#000;
     padding:10px 40px;
     border-radius:50px;
     border:2px solid #fff;
@@ -202,7 +202,7 @@ Search
     color:#fff;
 }
 .btn_three {
-    color:#fff;
+    color:#000;
     padding:10px 40px;
     border-radius:50px;
     border:2px solid #fff;
