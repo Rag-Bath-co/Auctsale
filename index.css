@@ -1,11 +1,15 @@
+* {
+    text-align:center;
+}
+
 body,html {
-    padding:0px;
-    margin:0px;
-    font-family: 'Comfortaa', cursive;
-    font-weight:bold;
-    color:#fff;
-    background:rgb(0, 0, 0);
-    scroll-behavior: smooth;
+padding:0px;
+margin:0px;
+font-family: 'Comfortaa', cursive;
+font-weight:bold;
+color:#fff;
+background:rgb(0, 0, 0);
+scroll-behavior: smooth;
 }
 #loading {
     width: 100vw;
