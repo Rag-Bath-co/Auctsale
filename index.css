@@ -249,6 +249,9 @@ scroll-behavior: smooth;
     background:#fff;
     cursor:pointer;
 }
+ul {
+    padding:0px;
+}
 @media (max-width: 900px){
     #header {
         width:94%;
